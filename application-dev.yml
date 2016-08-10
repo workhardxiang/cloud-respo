@@ -2,3 +2,9 @@
    curd:
       k: 200
       v: success
+tomcat:
+    jdbc:
+      pool:
+        url: jdbc:mysql://127.0.0.1:3306/testcache?useUnicode=true&characterEncoding=utf-8&useSSL=false
+        username: root
+        password: xjh199409
